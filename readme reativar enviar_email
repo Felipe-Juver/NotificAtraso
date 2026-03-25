@@ -1,0 +1,3 @@
+Para ativar a função de email para os responsaveis apenas descomentar o "require_once 'enviar_email.php';" na linha 2 e o enviarEmailAtraso na linha 94 até 98 do arquivo registrar.php, alem de verificar se a senha de app do email esta correta e se o email esta com a verificação de duas etapas ativa. Caso nao funcionar delete a senha de app e crie uma nova com o nome CAE e substitua a senha na linha 18 do arquivo de enviar_email.php
+
+Qual quer coisa só me chamar no numero 55 996195676 ou no insta @felipe.juver
