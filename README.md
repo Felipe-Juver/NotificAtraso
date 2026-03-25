@@ -1,9 +1,6 @@
-# NotificAtraso
-Site para registro dos atrasos dos alunos do IFFar
-
 # 📚 NotificAtraso
 
-Sistema web para registro e gerenciamento de atrasos de alunos.
+Sistema web desenvolvido para registro e gerenciamento de atrasos de alunos, com envio automático de notificações por e-mail aos responsáveis.
 
 ---
 
